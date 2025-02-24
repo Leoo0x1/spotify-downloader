@@ -58,7 +58,7 @@ Refer to our [Installation Guide](https://spotdl.rtfd.io/en/latest/installation/
     volume to access song files
 
     ```bash
-    docker run --rm -v $(pwd):/music spotdl download [trackUrl]
+    docker run --rm -v $(pwd):/music spotdl [trackUrl]
     ```
 
  - Build from source
