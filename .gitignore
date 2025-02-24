@@ -17,6 +17,7 @@
 *.profile
 .spotdl-cache
 .syncedlyrics
+music/
 
 # Docs
 docs/source/_build/
